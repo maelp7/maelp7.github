@@ -1,0 +1,18 @@
+ div {
+     text-align: center;
+ }
+ 
+ b {
+     font-size: 100px
+ }
+ 
+ .special {
+     color: darkorchid
+ }
+ 
+ body {
+     background-image: url("fond.jpg");
+     background-repeat: no-repeat;
+     background-size: 100%;
+     background-attachment: fixed;
+ }
